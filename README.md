@@ -57,10 +57,17 @@ ViewModel + LiveData - чисто и удобно, данные сами при�
 
 
 # Структура
+
 text
+
 app/src/main/java/.../
+
 ├── MainActivity.kt
+
 ├── task1/ (роутер + 3 фрагмента)
+
 ├── task2/ (WorkManager)
+
 ├── task3/ (кастомная View)
+
 └── task4/ (чат)
