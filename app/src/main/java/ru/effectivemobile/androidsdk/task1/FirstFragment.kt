@@ -39,6 +39,6 @@ class FirstFragment : Fragment() {
             }
         }
 
-        btnNext.text = "Вперед ▶ (нажми меня)"
+        btnNext.text = "Вперед "
     }
 }

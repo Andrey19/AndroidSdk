@@ -41,7 +41,7 @@
             android:id="@+id/btnPrevious"
             android:layout_width="120dp"
             android:layout_height="56dp"
-            android:text="◀ Назад"
+            android:text=" Назад "
             android:textSize="16sp"
             android:layout_marginEnd="24dp"
             android:backgroundTint="#4CAF50" />
@@ -50,7 +50,7 @@
             android:id="@+id/btnNext"
             android:layout_width="120dp"
             android:layout_height="56dp"
-            android:text="Вперед ▶"
+            android:text=" Вперед "
             android:textSize="16sp"
             android:backgroundTint="#4CAF50" />
 
