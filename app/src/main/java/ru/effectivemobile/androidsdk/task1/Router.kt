@@ -1,6 +1,8 @@
 package ru.effectivemobile.androidsdk.task1
 
+import androidx.fragment.app.Fragment
+
 interface Router {
-    fun navigateToNext()
-    fun navigateToPrevious()
+    fun navigateTo(fragment: Fragment)
+    fun navigateBack()
 }
